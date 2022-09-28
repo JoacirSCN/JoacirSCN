@@ -1,4 +1,15 @@
-## Oiii eu sou Joacir Sampaio e gosto muito de tecnologia, animes e jogos.
+### Hi there, I'm Joacir Sampaio
+
+#### About
+I'm a Web Developer and I'm studying web developer at [Rocketseat](https://www.rocketseat.com.br/)
+
+#### Current stack
+  - Main language: 'Javascript'
+  - Backend: 'Node.js'
+  - Frontent: 'React', 'HTML', 'CSS3', 'Javascript'
+  - Version code control: 'Git & Github'
+  - Tools: 'VsCode'
+  - I'm mostly active within the 'Rocketseat Community'
 
 ###
 <div align="center">
