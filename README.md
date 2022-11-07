@@ -14,8 +14,8 @@ I'm a Web Developer and I'm studying web developer at [Rocketseat](https://www.r
 ###
 <div align="center">
   <a href="https://github.com/JoacirSCN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joacirscn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacirscn&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoacirSCN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacirSCN&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center"><br>
