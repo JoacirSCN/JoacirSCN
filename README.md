@@ -12,11 +12,6 @@ I'm a Web Developer and I'm studying web developer at [Rocketseat](https://www.r
   - I'm mostly active within the 'Rocketseat Community'
 
 ###
-<div align="center">
-  <a href="https://github.com/JoacirSCN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoacirSCN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacirSCN&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div align="center"><br>
   <img align="center" alt="joacir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
